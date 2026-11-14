@@ -63,7 +63,6 @@ portfolio/
 
 - **GitHub:** [@lizacosx](https://github.com/lizacosx)
 - **LinkedIn:** [Elisa Costa](https://www.linkedin.com/in/elisa-costax/)
-- **Instagram:** [@instagram](https://www.instagram.com/)
 - **E-mail:** [elisacostasil@gmail.com](mailto:elisacostasil@gmail.com)
 
 ---
@@ -139,7 +138,6 @@ portfolio/
 
 - **GitHub:** [@lizacosx](https://github.com/lizacosx)
 - **LinkedIn:** [Elisa Costa](https://www.linkedin.com/in/elisa-costax/)
-- **Instagram:** [@instagram](https://www.instagram.com/)
 - **Email:** [elisacostasil@gmail.com](mailto:elisacostasil@gmail.com)
 
 ---
